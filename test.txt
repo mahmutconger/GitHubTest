@@ -1,1 +1,3 @@
 test test
+
+merhaba bu bir git repository test oluşumudur.
