@@ -1,3 +1,5 @@
 test test
 
 merhaba bu bir git repository test oluşumudur.
+
+git e sonradan commit atıyoruz
